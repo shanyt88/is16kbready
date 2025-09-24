@@ -4,7 +4,7 @@ A Go CLI tool to check if your Android APK is ready for Google's 16KB page size 
 
 ## Background
 
-Starting **November 1, 2024**, Google Play Console requires all apps targeting Android 15 to support 16KB page sizes. This tool quickly analyzes your APK's native libraries (ARM64/x86_64) to verify ELF alignment compatibility.
+Starting **November 1, 2025**, Google Play Console requires all apps targeting Android 15 to support 16KB page sizes. This tool quickly analyzes your APK's native libraries (ARM64/x86_64) to verify ELF alignment compatibility.
 
 ## Installation
 
